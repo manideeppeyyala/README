@@ -1,39 +1,32 @@
-# Welcome to [Lokesh Naik's](https://github.com/m-lokeshnaik) profile! <a href="https://github.com/m-lokeshnaik"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Welcome to [manideeppeyyala's](https://github.com/manideeppeyyala) profile! <a href="https://github.com/manideeppeyyala"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<a href="https://www.linkedin.com/in/ lokesh-naik-0a7a27257" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-lokeshnaik" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/peyyalamanideep/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-lokeshnaik" height="30" width="40" /></a>
 &nbsp;
-<a href="https://www.instagram.com/_unknown_user7569/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lokesh naik" height="30" width="40" /></a>
+<a href="https://www.instagram.com/vlogingwithmani/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lokesh naik" height="30" width="40" /></a>
 &nbsp;
 
 
 
 ## Glad to see you here! &nbsp;
 
-I am a  machine learning engineer and 3d model designer. I love programming, reading, writing and speaking.
-
-As a ML engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world.
-
-That's why I like to make things that make a difference.
-
-
-### Talking about Personal Stuffs:
-
-- 👨‍🎓 I'm a **Senior ML Engineering Student**
+A Passionate Computer Science Engineering (CSE) student with a knack for problem- solving and a drive to
+innovate. Proficient in programming languages and eager to apply theoretical knowledge to real-world challenges.
+Dedicated to continuous learning and contributing to cutting-edge technology solutions
+- 👨‍🎓 I'm a **AI&ML Engineering Student**
 - 💬 Ask me about anything, I am happy to help
 - 🌱 I'm currently learning:
-- Data Structures and Algorithms on [hackerrank](https://www.hackerrank.com/lokeshnaik7569)
+- Data Structures and Algorithms on [LEETCODE](https://leetcode.com/u/LBm49z05XS/)
 - Tools and technologies from <a href="#"><img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a> ecosystem
-- 📬 How to reach me: [lokeshnaik7569@gmail.com](mailto:lokeshnaik7569@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1HMwxT0zjIdKqVkr5Vd1ajzlsTfmzl_5i/view?usp=drive_link).
+- 📬 How to reach me: [manideepyadav380@gmail.com](mailto:manideepyadav380@gmail.com)
+- 📝 [Resume](https://drive.google.com/file/d/1C_JiR_wTHiKuLTlAbcd_c1h-Xx03r4ne/view?usp=sharing).
 - 💪 This is where I write, code and solve problems:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/m-lokeshnaik" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="m-lokeshnaik" height="30" width="40" /></a>
+<a href="https://github.com/manideeppeyyala" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="manideeppeyyala" height="30" width="40" /></a>
 &nbsp;
-<a href="https://leetcode.com/lokeshnaik7569/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lokeshnaik7569" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/LBm49z05XS/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LBm49z05XS" height="30" width="40" /></a>
 &nbsp;
-<a href="https://www.hackerrank.com/lokeshnaik7569" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lokeshnaik7569" height="30" width="40" /></a>
-&nbsp;
+
 
 ---
 
@@ -69,21 +62,21 @@ That's why I like to make things that make a difference.
     <a href="#"><img alt="CNN" src="https://img.shields.io/badge/CNN-CC0000.svg?style=for-the-badge&logo=CNN&logoColor=white"></a>
     <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"></a>
     <a href="#"><img alt="opencv" src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white"></a>
-    <!-- <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"></a> -->
-    <!-- <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a> -->
-    <!-- <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> -->
+    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"></a>
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
 </p>
 
 ### 🗄️ Databases and cloud hosting
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-    <!-- <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
-    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a> -->
+    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
+    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-    <!-- <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-    <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a> -->
+    <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+    <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
 </p>
 
 ### 💻 Software and tools
